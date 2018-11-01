@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1535648939 source:/home/vergil/Desktop/CB/PolishNotation/alloc.c
+	<stdio.h>
+	"alloc.h"
+
+1535648939 /home/vergil/Desktop/CB/PolishNotation/alloc.h
+	<stdlib.h>
+
+1540263869 source:/home/vergil/Desktop/CB/PolishNotation/stack.c
+	<stdlib.h>
+	<assert.h>
+	"stack.h"
+	"alloc.h"
+
+1540526134 /home/vergil/Desktop/CB/PolishNotation/stack.h
+	<stdlib.h>
+
+1540530329 source:/home/vergil/Desktop/CB/PolishNotation/main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"NPN.h"
+
+1540521299 /home/vergil/Desktop/CB/PolishNotation/NPN.h
+	<stdlib.h>
+
+1540530289 source:/home/vergil/Desktop/CB/PolishNotation/NPN.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"stack.h"
+	"alloc.h"
+	"Utilidades.h"
+
+1540516351 /home/vergil/Desktop/CB/PolishNotation/Utilidades.h
+
+1540516203 source:/home/vergil/Desktop/CB/PolishNotation/Utilidades.c
+	<stdio.h>
+	<string.h>
+	"Utilidades.h"
+	"stack.h"
+
